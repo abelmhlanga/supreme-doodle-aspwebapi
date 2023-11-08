@@ -1,0 +1,5 @@
+{
+    "dotnet.defaultSolution": "MusicApi.sln",
+    "appService.defaultWebAppToDeploy": "/subscriptions/334bf8b4-7f78-4212-b002-44a3dc1a3b14/resourceGroups/musicorg/providers/Microsoft.Web/sites/AspMusicApi",
+    "appService.deploySubpath": "MusicApi"
+}
